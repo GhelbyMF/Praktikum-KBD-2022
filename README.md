@@ -14,5 +14,5 @@ Tools yang digunakan:
 
 | Pertemuan     | Materi Pertemuan                     | Catatan                              |
 | ------------- | ------------------------------------ | ------------------------------------ |
-| Pertemuan 1   | Syntax dasar Python dan user interface Spyder| Untuk UI Spyder, dijelaskan selagi eksekusi syntax |
-| Pertemuan 2   | [Modul Praktikum 1 - Menjalankan syntax dasar python](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/notebooks/modul-1-menjalankan-python.ipynb)<br>Mengerti syntax dasar pada python dan mampu menjalankan program python menggunakan IDE, maupun di command prompt atau terminal|
+| Pertemuan 1   | [Syntax Pertemuan 1](https://nbviewer.org/github/GhelbyMF/Praktikum-KBD-2022/blob/main/Syntax/Pertemuan%201.ipynb)<br>Syntax dasar Python dan user interface Spyder| Untuk UI Spyder, dijelaskan selagi eksekusi syntax |
+| Pertemuan 2   | | |
