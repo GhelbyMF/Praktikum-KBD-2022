@@ -16,3 +16,10 @@ Tools yang digunakan:
 | ------------- | ------------------------------------ | ------------------------------------ |
 | Pertemuan 1   | [Syntax Pertemuan 1](https://nbviewer.org/github/GhelbyMF/Praktikum-KBD-2022/blob/main/Syntax/Pertemuan%201.ipynb)<br>Syntax dasar Python dan user interface Spyder| Untuk UI Spyder, dijelaskan selagi eksekusi syntax |
 | Pertemuan 2   | | |
+| Pertemuan 3   | | |
+| Pertemuan 4   | | |
+| Pertemuan 5   | | |
+| Pertemuan 6   | | |
+| Pertemuan 7   | | |
+| Pertemuan 8   | | |
+| Ujian Akhir Praktikum   | | |
