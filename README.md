@@ -15,7 +15,7 @@ Tools yang digunakan:
 | Pertemuan     | Materi Pertemuan                     | Catatan                              |
 | ------------- | ------------------------------------ | ------------------------------------ |
 | Pertemuan 1   | [Syntax Pertemuan 1](https://nbviewer.org/github/GhelbyMF/Praktikum-KBD-2022/blob/main/Syntax/Pertemuan%201.ipynb)<br>Syntax dasar Python dan user interface Spyder| Untuk UI Spyder, dijelaskan selagi eksekusi syntax |
-| Pertemuan 2   | | |
+| Pertemuan 2   | [Syntax Pertemuan 2](https://nbviewer.org/github/GhelbyMF/Praktikum-KBD-2022/blob/main/Syntax/Pertemuan%202.ipynb)<br>Variabel dan Operator| |
 | Pertemuan 3   | | |
 | Pertemuan 4   | | |
 | Pertemuan 5   | | |
