@@ -18,7 +18,7 @@ Tools yang digunakan:
 | Pertemuan 2   | [Syntax Pertemuan 2](https://nbviewer.org/github/GhelbyMF/Praktikum-KBD-2022/blob/main/Syntax/Pertemuan%202.ipynb)<br>Variabel dan Operator| |
 | Pertemuan 3   | | |
 | Pertemuan 4   | | |
-| Pertemuan 5   | | |
+| Pertemuan 5   | [Syntax Pertemuan 5](https://nbviewer.org/github/GhelbyMF/Praktikum-KBD-2022/blob/main/Syntax/Pertemuan%205.ipynb)<br>Functions| |
 | Pertemuan 6   | | |
 | Pertemuan 7   | | |
 | Pertemuan 8   | | |
